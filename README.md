@@ -1,4 +1,4 @@
-# FINOVA — Financial Intelligence & Economic Research
+# ECONALY — Financial Intelligence & Economic Research
 
 A free, static website starter for an independent student-led finance, economics, and technology research project.
 
